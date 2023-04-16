@@ -1,2 +1,2 @@
-# Demo-Repo
+# Spam
 Spam vs no Spam
