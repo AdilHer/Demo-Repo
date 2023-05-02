@@ -6,14 +6,14 @@ La classification de courrier électronique en spam et non spam est un exemple c
 
 Bibliothèques utilisées:
 
-pandas
+Pandas
 
-seaborn
+Seaborn
 
 Scikit-learn
 
-numpy
+Numpy
 
-tensorflow
+Tensorflow
 
 
